@@ -8,5 +8,3 @@ class Polygon {
     return this.sides.length
   }
 }
-
-
